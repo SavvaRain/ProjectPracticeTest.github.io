@@ -1,3 +1,7 @@
 [submodule "magnolia-free-hugo-theme"]
 	path = themes/Magnolia
  	url = https://savvarain.github.io/ProjectPracticeTest.github.io
+[submodule "public"]
+	path = public
+	url = https://github.com/SavvaRain/TestingStuff.github.io.git
+	branch = main
